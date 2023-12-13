@@ -107,7 +107,7 @@ function showData() {
   }
 }
 showData();
-
+//count
 //delete
 function deleteData(i) {
   dataPro.splice(i);
