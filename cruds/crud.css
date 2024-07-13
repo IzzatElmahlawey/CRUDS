@@ -78,36 +78,3 @@ th,
 td {
   padding: 5px;
 }
-.Image a {
-  color: #000;
-}
-li,
-a {
-  box-sizing: border-box;
-  background-color: #111;
-  font-family: system-ui;
-  font-weight: 500;
-  font-size: 16px;
-  color: #fff;
-  border-radius: 20px;
-  border: none;
-}
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 3px 1%;
-}
-.nav__links {
-  list-style: none;
-}
-.nav__links li {
-  display: inline-block;
-  padding: 0px 20px;
-}
-.nav__links li a {
-  transition: all 0.3s ease 0s;
-}
-.nav__links li a:hover {
-  color: #610661;
-}
